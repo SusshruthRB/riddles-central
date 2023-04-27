@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/riddles-central/static/css/main.17b0cbfc.css",
+    "main.js": "/riddles-central/static/js/main.2067fa8f.js",
+    "static/js/787.203fc0fd.chunk.js": "/riddles-central/static/js/787.203fc0fd.chunk.js",
+    "static/media/checkbox-checked.svg": "/riddles-central/static/media/checkbox-checked.934b42588c95cdc18fc7fb0eb461581a.svg",
+    "static/media/checkbox-unchecked.svg": "/riddles-central/static/media/checkbox-unchecked.8fc5d686050410d143672bd5abb3a00e.svg",
+    "index.html": "/riddles-central/index.html",
+    "main.17b0cbfc.css.map": "/riddles-central/static/css/main.17b0cbfc.css.map",
+    "main.2067fa8f.js.map": "/riddles-central/static/js/main.2067fa8f.js.map",
+    "787.203fc0fd.chunk.js.map": "/riddles-central/static/js/787.203fc0fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17b0cbfc.css",
+    "static/js/main.2067fa8f.js"
+  ]
+}

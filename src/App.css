@@ -1,0 +1,9 @@
+.centered{
+  margin: auto;
+}
+.hide{
+  display: none;
+}
+.show{
+  display: block;
+}
